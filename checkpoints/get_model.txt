@@ -1,0 +1,9 @@
+How to get models of 
+	VGG_VOC0712_SSD_300x300_iter_120000.ckpt.data-00000-of-00001
+	VGG_VOC0712_SSD_300x300_iter_120000.ckpt.index
+
+Step1: Please download from Baidu Pan:
+	Website: https://pan.baidu.com/s/1o8xaywy 
+	Password: nv9k
+
+Step2: Please unzip checkpoints.zip into checkpoints folder in project root.
